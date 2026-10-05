@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anny"
+  short_description: "Use the Anny Python library"
+  default_prompt: "Use the Anny Python library to complete this task."

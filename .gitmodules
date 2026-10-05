@@ -1,0 +1,3 @@
+[submodule ".agents/skills/anny/clone/anny"]
+	path = .agents/skills/anny/clone/anny
+	url = https://github.com/naver/anny.git
